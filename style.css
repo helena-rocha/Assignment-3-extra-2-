@@ -1,0 +1,23 @@
+.background {
+  background-color: plum
+}
+
+.timeline {
+  border: 3px solid indigo;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.fourth-section {
+  border: 3px solid indigo;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 17px;
+}
